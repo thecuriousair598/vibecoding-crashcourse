@@ -1,8 +1,4 @@
-# AI Innovation Hub — Session 1 Summary
-
-**Date:** 2 Sep 2025, 06:14 AM SGT  
-**Facilitator/Speaker(s):** Shwet Jain  
-**Location/Format:** Not mentioned
+Session 1 Summary
 
 ## Objectives
 - Learn how to create a basic requirement document and a functional design document for a new idea.
@@ -85,7 +81,7 @@
 - Not mentioned
 
 ## Source Map
-- Derived from: *AI Innovation Hub.docx* — Transcript excerpts (approximate timestamps):
+- Derived from: *session 1 raw transcript.docx* — Transcript excerpts (approximate timestamps):
   - Opening framing and objectives (0:04–1:27)
   - `agents.md` concept and usage (1:27–5:00)
   - GitHub PR workflow with AI (6:20–11:42)
