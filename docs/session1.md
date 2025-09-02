@@ -53,8 +53,8 @@ Session 1 Summary
   - Basic UI layouts (sample list page, data entry page).
 
 ## Assignments
-- [ ] **Assignment 1:** Set up GitHub & prepare a Git “cheat sheet.” Demonstrate end-to-end PR workflow (create repo; create PR; switch local to PR; get latest; show changes; merge to `main`; configure auto-delete of PR post-merge). — **Owner:** Participants — **Due:** 2 Sep 2025, 3:00 PM SGT — **Submission:** Share update with facilitator today; demonstrate via screen-share in next session.
-- [ ] **Assignment 2:** Research “starter kits.” Identify broadly available options; shortlist the 10 most popular; pick your top 3 with reasons; favour those compatible with Microsoft Azure stack; list key features of each. — **Owner:** Participants — **Due:** 2 Sep 2025, 3:00 PM SGT — **Submission:** Share written summary with facilitator; be prepared to present and answer questions.
+- [ ] **Assignment 1:** Set up GitHub & prepare a Git “cheat sheet.” Demonstrate end-to-end PR workflow (create repo; create PR; switch local to PR; get latest; show changes; merge to `main`; configure auto-delete of PR post-merge). — **Owner:** Participants — **Due:**  3:00 PM local time — **Submission:** Share update with facilitator today; demonstrate via screen-share in next session.
+- [ ] **Assignment 2:** Research “starter kits.” Identify broadly available options; shortlist the 10 most popular; pick your top 3 with reasons; favour those compatible with Microsoft Azure stack; list key features of each. — **Owner:** Participants — **Due:** 2 Sep 2025, 3:00 PM local time — **Submission:** Share written summary with facilitator; be prepared to present and answer questions.
 
 ## Audience Question Prompts
 - “What is the concept of branches pull request in getup? Why they exist?” — Facilitator
@@ -73,7 +73,7 @@ Session 1 Summary
   - Maintain `agents.md` as a living instruction file the agent can update with lessons learned.
   - Adopt a minimal repo structure (`src/`, `docs/`, `agents.md`, `README.md`).
 - **Next Steps**
-  - Participants complete both assignments and submit updates today by **3:00 PM SGT (2 Sep 2025)** (initially stated 2:00 PM, extended due to another training session).
+  - Participants complete both assignments and submit updates today by **3:00 PM local time ** (initially stated 2:00 PM, extended due to another training session).
   - Facilitator will generate and share PPTs derived from the recording/transcript.
   - Review assignment outcomes at the start of Session 2 (screen-share demonstrations).
 
