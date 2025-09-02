@@ -9,11 +9,11 @@ Session 1 Summary
 - Define a lightweight “starter kit” concept and list common features desired across most apps.
 
 ## Agenda
-- Not mentioned — Kickoff & session goals (Speaker: Shwet Jain)
-- Not mentioned — Using `agents.md` to steer the AI assistant (Speaker: Shwet Jain)
-- Not mentioned — PR-based workflow with AI (Speaker: Shwet Jain)
-- Not mentioned — Minimal repository structure: `src/`, `docs/`, `agents.md`, `README.md` (Speaker: Shwet Jain)
-- Not mentioned — “Starter kit” concept & assignment briefing (Speaker: Shwet Jain)
+-Kickoff & session goals 
+- Using `agents.md` to steer the AI assistant 
+- PR-based workflow with AI 
+- Minimal repository structure: `src/`, `docs/`, `agents.md`, `README.md` 
+- “Starter kit” concept & assignment briefing 
 
 ## What We Covered
 ### Topic 1 — Controlling the AI Assistant
